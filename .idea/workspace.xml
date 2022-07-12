@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f3398b1-f9d2-4e33-aa0c-3c36082826e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Thermostat/thermostat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thermostat/thermostat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thermostat/thermostat_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Thermostat/thermostat_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="0f3398b1-f9d2-4e33-aa0c-3c36082826e1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657537600352</updated>
       <workItem from="1657537601606" duration="5455000" />
-      <workItem from="1657618075476" duration="2922000" />
+      <workItem from="1657618075476" duration="3493000" />
     </task>
     <servers />
   </component>
@@ -81,23 +78,18 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Thermostat/thermostat_test.py</url>
-          <line>39</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Thermostat/thermostat_test.py</url>
-          <line>29</line>
+          <line>33</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Thermostat/thermostat_test.py</url>
-          <line>33</line>
+          <line>37</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TDD$.coverage" NAME=" Coverage Results" MODIFIED="1657622021974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thermostat" />
+    <SUITE FILE_PATH="coverage/TDD$.coverage" NAME=" Coverage Results" MODIFIED="1657622240442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Thermostat" />
   </component>
 </project>
